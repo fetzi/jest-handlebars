@@ -1,0 +1,17 @@
+{
+  "name": "jest-handlebars",
+  "version": "1.0.0",
+  "description": "A Jest processor that compiles included handlebars templates",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fetzi/jest-handlebars.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "jest",
+    "handlebars",
+    "hbs"
+  ],
+  "author": "Johannes Pichler <admin@johannespichler.com> (https://johannespichler.com)",
+  "license": "MIT"
+}
