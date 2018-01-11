@@ -19,3 +19,9 @@ To enable the processor please add the following rule to the `transform` object 
 ```
 
 Now all imported handlebars files will get compiled by the processor and the render function is imported.
+
+## Author
+Johannes Pichler
+
+## License
+MIT
