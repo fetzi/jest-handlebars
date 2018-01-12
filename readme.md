@@ -12,7 +12,7 @@ To enable the processor please add the following rule to the `transform` object 
 "jest": {
     // ...
     transform: {
-        "\\.hbs$": "<rootDir>/tests/jest/hbs-preprocessor.js",
+        "\\.hbs$": "jest-handlebars",
     }
     // ...
 }
